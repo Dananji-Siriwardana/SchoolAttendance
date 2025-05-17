@@ -26,7 +26,7 @@ A simple web-based application to manage student attendance, built using Java Se
 - Apache Tomcat 9.x
 - MySQL Server 8.x
 - MySQL JDBC Driver (`mysql-connector-java`)
-- IDE (e.g., Eclipse, IntelliJ IDEA)
+- Eclipse IDE
 
 ## Setup Instructions
 
