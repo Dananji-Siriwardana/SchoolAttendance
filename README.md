@@ -32,7 +32,7 @@ A simple web-based application to manage student attendance, built using Java Se
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/SchoolManagementSystem.git
+   git clone https://github.com/Dananji-Siriwardana/SchoolAttendance
    cd SchoolManagementSystem
 
 2. **Configure Database Connection**
